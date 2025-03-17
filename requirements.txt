@@ -1,0 +1,6 @@
+requests==2.31.0
+python-binance==1.0.19
+krakenex==2.1.0
+python-dotenv==1.0.0
+pycoingecko==3.1.0
+twilio==8.5.0 
